@@ -6,6 +6,10 @@ The project aims at building a traffic simulation model. Vehicles try to enter a
 
 In the project, a suitable and thread-safe communication protocol between vehicles and intersections is built. Concurrent programming techniques (such as mutexes, locks and message queues) are used in the implementation.
 
+Below image is the program schematic of the project.
+
+<img src="data/traffic_simulation_schematic.PNG"/>
+
 ## Dependencies for Running Locally
 * cmake >= 2.8
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
